@@ -29,7 +29,7 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_categories: programming
           plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, jupyter notebook
+            html, css, tex, tsx, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, jupyter notebook
           plugin_languages_limit: 6
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
