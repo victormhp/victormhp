@@ -1,6 +1,6 @@
-# Hi there!
+# Hi there! 🐣🐥
 
-Hope you have a nice day or something! 🙏🏻🙏🏻
+Hope you have a nice day or something!
 
 I am a passionate software developer who enjoys bulding a lot of stuff.
 
