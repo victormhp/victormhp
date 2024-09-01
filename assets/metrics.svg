@@ -110,17 +110,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 42.9kb of code in 17 edited files across 12 commits over last 14 days</small>
+                <small>estimation from 9.96kb of code in 17 edited files across 11 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="383.1103354663564" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="383.1103354663564" y="0" width="42.280395578824894" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="425.3907310451813" y="0" width="22.210587550901685" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="447.601318596083" y="0" width="8.830715532286213" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="456.4320341283692" y="0" width="3.5679658716307934" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="365.6672219137516" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="365.6672219137516" y="0" width="61.29927817878956" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="426.96650009254114" y="0" width="21.199333703498056" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="448.1658337960392" y="0" width="8.428650749583564" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="456.5944845456228" y="0" width="3.405515454377198" height="8" fill="#000080"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -133,7 +133,7 @@
                             </div>
                             <small>
                                 <div>79 lines</div>
-                                <div>83.28%</div>
+                                <div>79.49%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -145,7 +145,7 @@
                             </div>
                             <small>
                                 <div>11 lines</div>
-                                <div>4.83%</div>
+                                <div>4.61%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -157,7 +157,7 @@
                             </div>
                             <small>
                                 <div>2 lines</div>
-                                <div>0.78%</div>
+                                <div>0.74%</div>
                             </small>
                         </div>
                     </section>
@@ -170,8 +170,8 @@
                                 Svelte
                             </div>
                             <small>
-                                <div>14 lines</div>
-                                <div>9.19%</div>
+                                <div>18 lines</div>
+                                <div>13.33%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -183,7 +183,7 @@
                             </div>
                             <small>
                                 <div>2 lines</div>
-                                <div>1.92%</div>
+                                <div>1.83%</div>
                             </small>
                         </div>
                     </section>
