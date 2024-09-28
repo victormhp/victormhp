@@ -11,23 +11,23 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    15 Languages
+                    14 Languages
                 </h2>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 27mb of code in 2333 edited files across 803 commits</small>
+                <small>estimation from 26.9mb of code in 2337 edited files across 803 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="161.99025957724558" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="161.99025957724558" y="0" width="146.16458301953105" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="308.1548425967766" y="0" width="66.76507506150526" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="374.91991765828186" y="0" width="58.45860320329367" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="433.37852086157557" y="0" width="13.951900386604407" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="447.33042124817996" y="0" width="12.669578751820053" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="163.945796589731" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="163.945796589731" y="0" width="145.19274396089165" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="309.1385405506227" y="0" width="66.33255110848924" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="375.4710916591119" y="0" width="58.079891037958866" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="433.5509826970707" y="0" width="13.861515838968678" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="447.41249853603944" y="0" width="12.587501463960544" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -39,8 +39,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>4.93k lines</div>
-                                <div>35.22%</div>
+                                <div>5.03k lines</div>
+                                <div>35.64%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -52,7 +52,7 @@
                             </div>
                             <small>
                                 <div>2.26k lines</div>
-                                <div>14.51%</div>
+                                <div>14.42%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -64,7 +64,7 @@
                             </div>
                             <small>
                                 <div>770 lines</div>
-                                <div>3.03%</div>
+                                <div>3.01%</div>
                             </small>
                         </div>
                     </section>
@@ -77,8 +77,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>5.76k lines</div>
-                                <div>31.77%</div>
+                                <div>5.77k lines</div>
+                                <div>31.56%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -90,7 +90,7 @@
                             </div>
                             <small>
                                 <div>2.06k lines</div>
-                                <div>12.71%</div>
+                                <div>12.63%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -102,7 +102,7 @@
                             </div>
                             <small>
                                 <div>644 lines</div>
-                                <div>2.75%</div>
+                                <div>2.74%</div>
                             </small>
                         </div>
                     </section>
@@ -110,7 +110,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 64.6kb of code in 71 edited files across 33 commits over last 9 days</small>
+                <small>estimation from 64.6kb of code in 71 edited files across 33 commits over last 10 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
