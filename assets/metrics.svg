@@ -16,18 +16,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 27mb of code in 2366 edited files across 812 commits</small>
+                <small>estimation from 27mb of code in 2370 edited files across 814 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="163.183478656767" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="163.183478656767" y="0" width="145.52090952834075" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="308.7043881851077" y="0" width="65.99319450468121" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="374.69758268978893" y="0" width="57.78275495254063" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="432.4803376423295" y="0" width="13.79060047599628" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="446.27093811832583" y="0" width="13.729061881674143" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="163.16235499202818" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="163.16235499202818" y="0" width="145.50207223592207" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="308.6644272279502" y="0" width="65.98465186220764" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="374.64907909015784" y="0" width="57.77527512950126" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="432.42435421965916" y="0" width="13.788815319659381" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="446.2131695393185" y="0" width="13.786830460681454" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -52,7 +52,7 @@
                             </div>
                             <small>
                                 <div>2.26k lines</div>
-                                <div>14.35%</div>
+                                <div>14.34%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -101,8 +101,8 @@
                                 C
                             </div>
                             <small>
-                                <div>699 lines</div>
-                                <div>2.98%</div>
+                                <div>705 lines</div>
+                                <div>3%</div>
                             </small>
                         </div>
                     </section>
@@ -110,7 +110,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 3.39kb of code in 17 edited files across 13 commits over last 14 days</small>
+                <small>estimation from 3.94kb of code in 26 edited files across 15 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -128,7 +128,7 @@
                                 C
                             </div>
                             <small>
-                                <div>64 lines</div>
+                                <div>70 lines</div>
                                 <div>100%</div>
                             </small>
                         </div>
