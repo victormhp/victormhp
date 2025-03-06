@@ -8,6 +8,7 @@ I am a passionate software developer who enjoys bulding a lot of stuff.
 - During my internship at INMEGEN, I developed [EoN Simulations](https://github.com/victormhp/epidemics-simulations), a website for generating charts that represent epidemics on networks.
 - [CodeCraft](https://github.com/victormhp/code-craft), a website to visualize algorithms, data structures and some creative coding.
 - [dotfiles](https://github.com/victormhp/.dotfiles) for Debian, neovim, zsh, i3, polybar.
+- [pdforge](https://github.com/victormhp/pdforge), a python package and cmd utility for interacting and modifying PDF files.
 
 <br/>
 <div align="center">
